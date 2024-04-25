@@ -1,0 +1,92 @@
+body {
+  font-family: Lucida Sans;
+  padding: 50px;
+}
+
+p {
+  font-size: 18px;
+  margin: 0px;
+}
+
+hi {
+  font-size: 56px;
+  font-weight: 700;
+}
+
+.header-paragraph {
+  font-size: 20px;
+  font-weight: 400;
+  margin-top: 12px;
+  margin-bottom: 40px;
+}
+
+.question-text {
+  width:320px ;
+  height: 192px;
+}
+
+.img-question-div {
+  display: flex;
+  margin-bottom: 50px;
+  background-color: rgb(198, 240, 240);
+  padding: 80px;
+  border-radius: 20px;
+}
+
+.africa-img {
+  width: 500px;
+  height: 300px;
+  object-position: center;
+  border-radius: 10px;
+  margin-right: 20px;
+
+}
+
+.true-button, .false-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 12px;
+  width: 320px;
+  height: 48px;
+  border: 1px;
+  border-style: solid;
+  border-radius: 4px;
+  background-color: transparent;
+  font-size: 16px;
+  border-color: rgb(11, 11, 130);
+  color: rgb(11, 11, 130);
+  cursor: pointer;
+}
+
+
+.correct-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 12px;
+  width: 320px;
+  height: 48px;
+  border: none;
+  border-radius: 4px;
+  background-color: rgb(2, 74, 2);
+  font-size: 16px;
+  color: white;
+  cursor: pointer;
+}
+
+.incorrect-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 12px;
+  width: 320px;
+  height: 48px;
+  border: none;
+  border-radius: 4px;
+  background-color: rgb(172, 5, 5);
+  font-size: 16px;
+  color: white;
+  cursor: pointer;
+}
+

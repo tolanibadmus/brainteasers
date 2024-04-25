@@ -1,0 +1,54 @@
+{
+
+  "questions": [
+    { 
+      "question": "The Sahara Desert is the largest desert in the world",
+      "answer": "True"
+    },
+
+    { 
+      "question": "Mount Kilimanjaro, the highest peak in Africa, is located in Kenya.",
+      "answer": "False"
+    },
+
+    { 
+      "question": "The Nile River is the longest river in the world.",
+      "answer": "False"
+    },
+
+    { 
+      "question": "Africa is the most linguistically diverse continent in the world.",
+      "answer": "True"
+    },
+
+    { 
+      "question": "The African continent is home to the largest population of elephants in the world.",
+      "answer": "True"
+    },
+
+    { 
+      "question": "The majority of Africa lies in the Northern Hemisphere",
+      "answer": "False"
+    },
+
+    { 
+      "question": "Swahili is the official language of Nigeria.",
+      "answer": "False"
+    },
+
+    { 
+      "question": "Africa has only one time zone.",
+      "answer": "False"
+    },
+
+    { 
+      "question": "The Great Rift Valley, a geological feature, runs through East Africa.",
+      "answer": "True"
+    },
+
+    { 
+      "question": "Madagascar is the largest island in Africa.",
+      "answer": "False"
+    }
+  ]
+}
